@@ -1,4 +1,4 @@
-# ACOPF Structured Serialization for IEEE 9 30 and 118
+# ACOPF Structured Serialization for LLM
 
 Each system contains 9,000 training records and 1,000 test records. The saved
 records are already serialized.
